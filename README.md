@@ -1,16 +1,42 @@
-# React + Vite
+# React Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive counter application built using **React**.  
+Users can increment, decrement, and reset the counter value in real time.
 
-Currently, two official plugins are available:
+## Demo
+https://github.com/natsumi-s-43/react-counter/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Increment, decrement, and reset buttons
+- Real-time state updates using React hooks
+- Responsive and clean UI
+- No external libraries beyond React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- JavaScript (ES6+)
+- CSS / Styled Components (optional)
+- HTML
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Purpose
+
+This project was created as a portfolio project to demonstrate:
+
+- Building interactive UIs with React
+- Using state and event handling in React
+- Component-based architecture
+- Clean and responsive design
+
+## How It Works
+
+1. User clicks the increment or decrement buttons
+2. The counter state updates immediately
+3. User can reset the counter to zero
+
+## Future Improvements
+
+- Add multiple counters
+- Add animations or transitions
+- Unit testing with Jest
