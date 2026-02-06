@@ -16,8 +16,7 @@ https://github.com/natsumi-s-43/react-counter/
 ## Technologies Used
 
 - React
-- JavaScript (ES6+)
-- CSS / Styled Components (optional)
+- CSS 
 - HTML
 
 ## Purpose
