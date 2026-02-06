@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fdeeb3;
+  margin: 0;
+  height: 100vh; 
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+}
+
+h1 {
+  color: orange;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+  width: 300px;
+  margin: 100px auto;
+  text-align: center;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#count {
+  font-size: 60px;
+  margin: 20px 0;
+}
+
+.buttons button {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
