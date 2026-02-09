@@ -4,7 +4,7 @@ A simple and interactive counter application built using **React**.
 Users can increment, decrement, and reset the counter value in real time.
 
 ## Demo
-https://github.com/natsumi-s-43/react-counter/
+https://natsumi-s-43.github.io/react-counter/
 
 ## Features
 
